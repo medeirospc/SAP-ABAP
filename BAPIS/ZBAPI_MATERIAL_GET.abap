@@ -24,6 +24,8 @@ IF wa_return-type = 'S'.
   WRITE: / 'Material:', p_matnr,
          / 'Descrição:', wa_material_general-matl_desc,
          / 'Grupo mercadológico:', wa_material_general-matl_group.
+
+/**/
 ELSE.
   " Se deu erro, exibe a mensagem retornada pela BAPI
   WRITE: / 'Erro ao consultar material:', wa_return-message.

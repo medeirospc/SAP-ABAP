@@ -17,3 +17,5 @@ IF wa_return-type = 'S'.
 ELSE.
   WRITE: / 'Erro:', wa_return-message.
 ENDIF.
+
+/**/

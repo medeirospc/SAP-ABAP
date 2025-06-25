@@ -1,6 +1,6 @@
 # SAP ABAP
 
-- Repositório com objetivo de documentar meus códigos ABAP, com estudos práticos de ABAP voltados para o ambiente SAP, utilizando o MiniSAP e baseados em exercícios reais, vídeos técnicos e desafios de lógica.
+Repositório com objetivo de documentar meus códigos ABAP, com estudos práticos de ABAP voltados para o ambiente SAP, utilizando o MiniSAP e baseados em exercícios reais, vídeos técnicos e desafios de lógica.
 
 ---
 

@@ -1,10 +1,10 @@
-# 💼 SAP ABAP
+# SAP ABAP
 
-📌 Este repositório tem como objetivo documentar meus códigos ABAP, com estudos práticos de ABAP voltados para o ambiente SAP, utilizando o MiniSAP e baseados em exercícios reais, vídeos técnicos e desafios de lógica.
+📌 Repositório com objetivo de documentar meus códigos ABAP, com estudos práticos de ABAP voltados para o ambiente SAP, utilizando o MiniSAP e baseados em exercícios reais, vídeos técnicos e desafios de lógica.
 
 ---
 
-## 🔧 Tecnologias e Transações Utilizadas
+## Tecnologias e Transações Utilizadas
 
 - SE38 / SE80 – Reports e programas
 - SE11 – Dicionário de dados
@@ -16,7 +16,7 @@
 
 ---
 
-## 🗂 Estrutura do Repositório
+## Estrutura do Repositório
 
 | Pasta | Conteúdo |
 |-------|----------|
@@ -30,7 +30,7 @@
 
 ---
 
-## 📘 Exemplos disponíveis
+## Exemplos disponíveis
 
 - ✅ Relatórios com filtros e `SELECT INTO TABLE`
 - ✅ ALV básico com estrutura padrão e SALV OO
@@ -41,6 +41,6 @@
 
 ---
 
-📫 Contato: gustavomedeirostho@gmail.com 
+Contato: gustavomedeirostho@gmail.com 
 
 > Gustavo Medeiros – Desenvolvedor ABAP

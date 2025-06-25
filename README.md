@@ -41,6 +41,6 @@
 
 ---
 
-📫 Contato: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/gustavo-medeiros-050b73277/)  
+📫 Contato: gustavomedeirostho@gmail.com 
 
 > Gustavo Medeiros – Desenvolvedor ABAP

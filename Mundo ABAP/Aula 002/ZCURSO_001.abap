@@ -1,0 +1,2 @@
+REPORT ZCURSO_001.
+WRITE 'Hello World'.

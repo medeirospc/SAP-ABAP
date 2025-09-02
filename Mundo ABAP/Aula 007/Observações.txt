@@ -1,0 +1,8 @@
+** Para declararmos uma constante no ABAP, seguimos esta sintaxe: **
+
+-- CONSTANTS lc_name TYPE p DECIMALS 13 VALUE `1.111111111`.
+
+* Começa com CONSTANTS.
+* Nomeamos com lc (local constant)
+* Obrigatório informar VALUE da constante.
+* Obrigatório colocar `` quando for DECIMALS.  

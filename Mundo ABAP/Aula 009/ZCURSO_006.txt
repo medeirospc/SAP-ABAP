@@ -12,5 +12,4 @@ START-OF-SELECTION.
 
   ld_media = ( p_1bim + p_2bim + p_3bim + p_4bim ) / 4.
 
-  WRITE 'A média anual do aluno é: '.
-  WRITE ld_media.
+  WRITE: 'A média anual do aluno é: ', ld_media.
